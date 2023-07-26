@@ -20,4 +20,4 @@ uses: Platane/snk@v3
 
   env:
     # a github token is required to fetch the contribution calendar from github API
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    GITHUB_TOKEN: ${{ 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 }}
